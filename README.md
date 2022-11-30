@@ -5,3 +5,8 @@
 
 
 2. Modificación de este README.md desde GitHub para indicar lo dos primeros pasos.
+
+
+3. Clonar el repositorio.
+
+
